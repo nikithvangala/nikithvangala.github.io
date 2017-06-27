@@ -5,4 +5,9 @@ img {
 body {
     text-align: center;
     font-family: cursive;
+    background-color: #f39ff1
+}
+
+p {
+    color: blue;
 }
