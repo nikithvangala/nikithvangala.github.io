@@ -1,0 +1,12 @@
+#heading { 
+    color: red;
+    text-align: center; 
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+#firstrow {
+    background-color: #ff0099
+}
