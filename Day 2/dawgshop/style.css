@@ -16,3 +16,8 @@ body {
     text-align: center;
     
 }
+
+#output {
+    color: blue;
+    font-family: serif
+}
