@@ -5,7 +5,7 @@ img {
 body {
     text-align: center;
     font-family: cursive;
-    background-image: url(;http://media.istockphoto.com/photos/white-wooden-table-texture-background-picture-id511201318
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZQyLp96Ysjt0cmWx16LfljrkU4QOFh8ClRjzHbtxhyPb4-nhCIsItD8)
 }
 
 #onecolor {
@@ -13,5 +13,5 @@ body {
 }
 
 #othercolor{
-    color: lime;
+    color: purple;
 }
