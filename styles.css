@@ -1,0 +1,17 @@
+img {
+    width: 200px;
+    }
+
+body {
+    text-align: center;
+    font-family: cursive;
+    background-image: url(;http://media.istockphoto.com/photos/white-wooden-table-texture-background-picture-id511201318
+}
+
+#onecolor {
+    color: red;
+}
+
+#othercolor{
+    color: lime;
+}
